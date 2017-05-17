@@ -17,7 +17,11 @@ NYC, NY 10013
 
 [StrongLoop](https://strongloop.com) has always been deeply engaged with and committed to the developer community and we are happy to take part in hack-a-thons and other developer-focused events.
 
-[LoopBack](https://loopback.io) is an open source tool for rapidly building [Node.js](https://nodejs.org) API applications. In addition to the speed it provides for quickly developing RESTful CRUD API endpoints, LoopBack is built on top of [Express](https://expressjs.com), the most widely used Node.js web framework, which makes serving web UIs a breeze. LoopBack is also very extensible, so whatever your application needs should be within reach.
+[LoopBack](https://loopback.io) is an open-source tool for building [Node.js](https://nodejs.org) APIs quickly and easily! Built on top of [Express](https://expressjs.com), the most widely-used Node web framework, LoopBack helps you create all the basic CRUD APIs you need and connects easily to all major databases (MongoDB, MySQL, PostgreSQL, and more). Built-in support for extensions such as custom methods and authorization makes LoopBack a fantastic choice to scale with you from prototype to production!
+
+- Blazing fast API development
+- Free and Open-Source
+- Flexible and extensible
 
 ## Prizes
 
